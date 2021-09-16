@@ -1,5 +1,5 @@
 # 0x1A. C - Sorting algorithms & Big O
-* By Ron Olsen *
+*By Ron Olsen*
 
 ## Resources
 ###Read or watch:
@@ -120,7 +120,7 @@ Please use the “short” notation (don’t use constants). Example: O(nk) or O
 - [x] [README.md](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/README.md)
 - [x] [sort.h](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/sort.h)
 - [x] [print\_array.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/print_array.c)
-- [x] [print\_list.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/print_list.c)
+- [x] [print\_list.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/print_list.c
 - [ ] 0-bubble\_sort.c
 - [ ] 1-insertion\_list.c
 - [ ] 2-selection\_sort.c
