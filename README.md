@@ -6,7 +6,7 @@
 
 - [Sorting algorithm](https://intranet.hbtn.io/rltoken/vyoWOURQXvWXdDMOjNCX0g)
 - [Big O notation](https://intranet.hbtn.io/rltoken/FVWieykvBijR36tQp-m2kQ)
-- [Sorting algorithms animations]([https://intranet.hbtn.io/rltoken/4FGrd5YUiLdXLCFP9E-mWg)
+- [Sorting algorithms animations](https://intranet.hbtn.io/rltoken/4FGrd5YUiLdXLCFP9E-mWg)
 - [15 sorting algorithms in 6 minutes](https://intranet.hbtn.io/rltoken/gRYQqi0DMBFkW-yM2n7ydw) \(*WARNING*: _The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms_/)
 ## Learning Objectives
 At the end of this project, I am  expected to be able to explain to anyone, without the help of Google:
@@ -130,7 +130,7 @@ Average Case Performance | O(n^2)
 - [x] [README.md](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/README.md)
 - [x] [sort.h](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/sort.h)
 - [x] [print\_array.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/print_array.c)
-- [x] [print\_list.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/print_list.c
+- [x] [print\_list.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/print_list.c)
 - [ ] 0-bubble\_sort.c
 - [ ] 1-insertion\_list.c
 - [ ] 2-selection\_sort.c
