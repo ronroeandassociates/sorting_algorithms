@@ -48,7 +48,7 @@ Best Case performance | O(n)
 Average Case Performance | O(n^2)
 worst case performance | O(n^2)
 
-## [Selection Sort]((https://github.com/ronroeandassociates/sorting_algorithms/blob/main/2-O)
+## [Selection Sort](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/2-O)
 
 Selection sort is noted for simplicity, has performance advantage over more complicated algorithms in certain situations
 
