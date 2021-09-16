@@ -116,23 +116,35 @@ Please, note this format is used for Quiz and Task questions.
 …
 Please use the “short” notation (don’t use constants). Example: O(nk) or O(wn) should be written O(n). If an answer is required within a file, all your answers files must have a newline at the end.
 
-## Bubble Sort
+## [Bubble Sort](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/0-O)
+
  slow sorting algorithim for the simple data set
+
 Case |  Performance
 -------- |  ---------
 Best Case performance | O(n)
 Average Case Performance | O(n^2)
 worst case performance | O(n^2)
 
-## Insertion Sort List
+## [Insertion Sort](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/1-O)
+
 An insertion sort has the benefits of simplicity and low overhead
+
 Case |  Performance
 -------- |  ---------
 Best Case performance | O(n)
 Average Case Performance | O(n^2)
 worst case performance | O(n^2)
 
+## Selection Sort
 
+Selection sort is noted for simplicity, has performance advantage over more complicated algorithms in certain situations
+
+Case |  Performance
+-------- |  ---------
+Best Case performance | O(n^2)
+Average Case Performance | O(n^2)
+worst case performance | O(n^2)
 
 ## Tasks
 
@@ -140,8 +152,7 @@ worst case performance | O(n^2)
 - [x] [sort.h](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/sort.h)
 - [x] [print\_array.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/print_array.c)
 - [x] [print\_list.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/print_list.c)
-- [x] 0-bubble\_sort.c
-- [x] 1-insertion\_list.c
+- [x] [0-bubble\_sort.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/0-bubble_sort.c)
+- [x] [1-insertion\_list.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/1-insertion_sort_list.c)
 - [ ] 2-selection\_sort.c
 - [ ] 3-quick\_sort.c
-
