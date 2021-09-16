@@ -1,5 +1,3 @@
-print_list.c
-
 #include <stdio.h>
 #include "sort.h"
 
