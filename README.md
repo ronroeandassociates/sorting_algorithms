@@ -116,6 +116,14 @@ Please, note this format is used for Quiz and Task questions.
 - …
 Please use the “short” notation (don’t use constants). Example: O(nk) or O(wn) should be written O(n). If an answer is required within a file, all your answers files must have a newline at the end.
 
+##Bubble Sort
+Case | Performance
+_____ | __________
+Worst Case performance | O(n^2)
+Best Case performance | O(n)
+Average Case Performance | O(n^2)
+
+
 ## Tasks
 - [x] [README.md](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/README.md)
 - [x] [sort.h](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/sort.h)
