@@ -58,7 +58,7 @@ Best Case performance | O(n^2)
 Average Case Performance | O(n^2)
 worst case performance | O(n^2)
 
-## [Quick Sort]((https://github.com/ronroeandassociates/sorting_algorithms/blob/main/3-O)
+## [Quick Sort](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/3-O)
 
 Quick Sort is a recursive sorting algorithm Quick Sort in general does not require extra space.
 
