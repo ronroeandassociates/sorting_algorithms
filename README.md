@@ -58,6 +58,15 @@ Best Case performance | O(n^2)
 Average Case Performance | O(n^2)
 worst case performance | O(n^2)
 
+## [Quick Sort]((https://github.com/ronroeandassociates/sorting_algorithms/blob/main/3-O)
+
+Quick Sort is a recursive sorting algorithm Quick Sort in general does not require extra space.
+
+Base |  Performance
+-------- |  ---------
+Best Case performance | O(n^2)
+Average Case Performance | O(n log n)
+worst case performance | O(n log n)
 ## Tasks
 
 - [x] [README.md](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/README.md)
@@ -67,4 +76,4 @@ worst case performance | O(n^2)
 - [x] [0-bubble\_sort.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/0-bubble_sort.c)
 - [x] [1-insertion\_list.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/1-insertion_sort_list.c)
 - [x] [2-selection\_sort.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/2-selection_sort.c)
-- [ ] 3-quick\_sort.c
+- [x] [3-quick\_sort.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/3-quick_sort.c)
