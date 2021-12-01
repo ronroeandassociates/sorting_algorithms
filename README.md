@@ -88,5 +88,5 @@ Quick Sort is a recursive sorting algorithm Quick Sort in general does not requi
 - [x] [3-quick_sort.c](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/3-quick_sort.c)
 
 <p align="center">
-<img src="../images/roeHR-01.png" width=10% height=10%>
+<img src="/images/roeHR-01.png" width=10% height=10%>
 </p>
