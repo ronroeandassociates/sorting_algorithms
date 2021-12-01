@@ -32,15 +32,14 @@ int partition(int *array, int low, int high, size_t size)
 		if (array[y] <= pivot)
 		{
 			x++;
-			if
-				(x != y)
+			if (x != y)
 			{
-				 swap(&array[x], &array[y]);
-				 print_array(array, size);
+				swap(&array[x], &array[y]);
+				print_array(array, size);
 			}
+		}
 	}
-	}
-		return (x);
+	return (x);
 }
 /**
  * lomuto_qsort - Sorting Recursively an Array
@@ -52,7 +51,7 @@ int partition(int *array, int low, int high, size_t size)
  */
 void lomuto_qsort(int *array, int low, int high, size_t size)
 {
-	 int i;
+	int i;
 
 	if (low < high)
 	{

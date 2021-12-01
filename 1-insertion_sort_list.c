@@ -50,7 +50,7 @@ void insertion_sort_list(listint_t **list)
 			swap(prev, head, list);
 			print_list(*list);
 			prev = head->prev;
-					}
+		}
 		head = head->next;
 	}
 }
