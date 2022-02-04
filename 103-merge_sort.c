@@ -1,13 +1,13 @@
 #include "sort.h"
 
 /**
-* merge - Merges the splits from merge_sorty
-* @array: Array split to merge
-* @low: lowest index of split
-* @middle: middle index of split
-* @high: high index of split
-* @temp: temp array for merging
-*/
+ * merge - Merges the splits from merge_sorty
+ * @array: Array split to merge
+ * @low: lowest index of split
+ * @middle: middle index of split
+ * @high: high index of split
+ * @temp: temp array for merging
+ */
 
 void merge(int *array, int low, int middle, int high, int *temp)
 {
@@ -44,33 +44,33 @@ void merge(int *array, int low, int middle, int high, int *temp)
 }
 
 /**
-* merge_sorty - recurrsive function utilizing merge sort algo
-* @array: Array
-* @low: Lowest index of split
-* @high: highest index of split
-* @temp: temp array for mergin
-*/
+ * merge_sort_y - recurrsive function utilizing merge sort algo
+ * @array: Array
+ * @low: Lowest index of split
+ * @high: highest index of split
+ * @temp: temp array for mergin
+ */
 
-void merge_sorty(int *array, int low, int high, int *temp)
+void merge_sort_y(int *array, int low, int high, int *temp)
 {
   int middle;
 
   if (low < high)
   {
     middle = ((high + low - 1) / 2);
-    merge_sorty(array, low, middle, temp);
-    merge_sorty(array, middle + 1, high, temp);
+    merge_sort_y(array, low, middle, temp);
+    merge_sort_y(array, middle + 1, high, temp);
     merge(array, low, middle, high, temp);
   }
 }
 
 /**
-* merge_sorty - Sorts array with merge sort algo
-* @array: array to sort
-* @size: Size of array to sort
-*/
+ * merge_sort_y - Sorts array with merge sort algo
+ * @array: array to sort
+ * @size: Size of array to sort
+ */
 
-void merge_sorty(int *array, size_t size)
+void merge_sort(int *array, size_t size)
 {
   int *temp;
 
@@ -79,6 +79,6 @@ void merge_sorty(int *array, size_t size)
   temp = malloc(sizeof(int) * (size + 1));
   if (temp == NULL)
     return;
-  merge_sorty(array, 0, size - 1, temp);
+  merge_sort_y(array, 0, size - 1, temp);
   free(temp);
 }
