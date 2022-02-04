@@ -65,7 +65,7 @@ void merge_sort_y(int *array, int low, int high, int *temp)
 }
 
 /**
- * merge_sort_y - Sorts array with merge sort algo
+ * merge_sort - Sorts array with merge sort algo
  * @array: array to sort
  * @size: Size of array to sort
  */
