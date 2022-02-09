@@ -2,17 +2,6 @@
 
 # 0x1A. C - Sorting algorithms & Big O
 
-_By Ron Olsen_ using resources provided by Holberton School
-
-## Resources
-
-### Read or watch:
-
-- [Sorting algorithm](https://intranet.hbtn.io/rltoken/vyoWOURQXvWXdDMOjNCX0g)
-- [Big O notation](https://intranet.hbtn.io/rltoken/FVWieykvBijR36tQp-m2kQ)
-- [Sorting algorithms animations](https://intranet.hbtn.io/rltoken/4FGrd5YUiLdXLCFP9E-mWg)
-- [15 sorting algorithms in 6 minutes](https://intranet.hbtn.io/rltoken/gRYQqi0DMBFkW-yM2n7ydw) \(**WARNING**: _The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms_/)
-
 ## Learning Objectives
 
 At the end of this project, I am expected to be able to explain to anyone, without the help of Google:
