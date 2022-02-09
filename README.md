@@ -1,4 +1,4 @@
-![sort algo bann](https://github.com/ronroeandassociates/assets/blob/images/0x00_sorting_algorithms_ban.png)
+![sort algo bann](https://github.com/ronroeandassociates/assets/blob/master/images/0x00_sorting_algorithms_ban.png)
 
 # 0x1A. C - Sorting algorithms & Big O
 
