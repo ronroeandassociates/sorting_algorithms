@@ -11,6 +11,8 @@ At the end of this project, I am expected to be able to explain to anyone, witho
 - What is the Big O notation, and how to evaluate the time complexity of an algorithm
 - How to select the best sorting algorithm for a given input
 - What is a stable sorting algorithm
+- How Merge Sort works
+- The Big O of the best, average, and worst cases for Merge Sort
 ```
 
 ## [Bubble Sort](https://github.com/ronroeandassociates/sorting_algorithms/blob/main/0-O)
