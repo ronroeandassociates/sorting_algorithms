@@ -1,8 +1,8 @@
 #include "sort.h"
 
-#define HEAP_PARENT_INDEX(node_index) (((node_index)-1) / 2)
-#define HEAP_LCHILD_INDEX(node_index) (((node_index)*2) + 1)
-#define HEAP_RCHILD_INDEX(node_index) (((node_index)*2) + 2)
+#define HEAP_PARENT_INDEX(node_index) (((node_index) - 1) / 2)
+#define HEAP_LCHILD_INDEX(node_index) (((node_index) * 2) + 1)
+#define HEAP_RCHILD_INDEX(node_index) (((node_index) * 2) + 2)
 
 /**
  * pswap - swap elements and print array
